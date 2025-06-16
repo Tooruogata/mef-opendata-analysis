@@ -1,6 +1,6 @@
 # 📊 MEF Dataset Downloader & Extractor
 
-This project automates the download and processing of public finance datasets from the [Peruvian Ministry of Economy and Finance (MEF)](https://www.mef.gob.pe/), specifically using the `datastorefiles` service.
+This project automates the download and processing of public finance datasets from the [Peruvian Ministry of Economy and Finance (MEF)](https://datosabiertos.mef.gob.pe/), specifically using the `datastorefiles` service.
 
 It supports downloading both `.csv` and `.zip` files, extracting zipped files, and organizing them into a clean folder structure for further processing.
 
