@@ -1,1 +1,9 @@
-**/data/
+# Ignore only specific file types inside any 'data/' folder
+**/data/**/*.zip
+**/data/**/*.csv
+**/data/**/*.xlsx
+**/data/**/*.xls
+**/data/**/*.json
+
+# But DO NOT ignore markdown files
+!**/data/**/*.md
